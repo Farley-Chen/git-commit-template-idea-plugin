@@ -1,0 +1,43 @@
+# Please add change type according to the following example
+#- description: A new feature
+#  title: Features
+#  label: feat
+- description: A new feature
+  title: Features
+  label: feat
+- description: A bug fix
+  title: Bug Fixes
+  label: fix
+- description: Documentation only changes
+  title: Documentation
+  label: docs
+- description: >-
+    Changes that do not affect the meaning of the code (white-space,
+    formatting, missing semi-colons, etc)
+  title: Styles
+  label: style
+- description: A code change that neither fixes a bug nor adds a feature
+  title: Code Refactoring
+  label: refactor
+- description: A code change that improves performance
+  title: Performance Improvements
+  label: perf
+- description: Adding missing tests or correcting existing tests
+  title: Tests
+  label: test
+- description: >-
+    Changes that affect the build system or external dependencies (example
+    scopes: gulp, broccoli, npm)
+  title: Builds
+  label: build
+- description: >-
+    Changes to our CI configuration files and scripts (example scopes: Travis,
+    Circle, BrowserStack, SauceLabs)
+  title: Continuous Integrations
+  label: ci
+- description: Other changes that don't modify src or test files
+  title: Chores
+  label: chore
+- description: Reverts a previous commit
+  title: Reverts
+  label: revert
