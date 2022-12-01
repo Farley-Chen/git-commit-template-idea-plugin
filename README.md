@@ -2,8 +2,8 @@
 
 ## Thanks
 
-This project is based on the project [MobileTribe](https://github.com/MobileTribe)/*
-*[commit-template-idea-plugin](https://github.com/MobileTribe/commit-template-idea-plugin)**
+This project is based on the
+project [MobileTribe](https://github.com/MobileTribe)/[commit-template-idea-plugin](https://github.com/MobileTribe/commit-template-idea-plugin)
 
 Thanks for [Damien Arrachequesne](https://github.com/darrachequesne) and [Liux](https://github.com/lx0758)
 
