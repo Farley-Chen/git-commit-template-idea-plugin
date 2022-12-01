@@ -1,7 +1,5 @@
 # Git commit template Plugin for IntelliJ
 
-The plugin is only used For Windows
-
 ## Thanks
 
 This project is based on the project [MobileTribe](https://github.com/MobileTribe)/*
